@@ -1,0 +1,20 @@
+
+.header {
+    background-color: #666666;
+    padding: 20px;
+    position: absolute;
+    display: block;
+    width: 80%;
+    top: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 5px;
+    
+}
+
+.info p {
+    text-align: center;
+    font-family: helvetica;
+    font-size: 1.2rem;
+    color: #eeeeee;
+}
