@@ -1,6 +1,6 @@
 
 .header {
-    background-color: #666666;
+    background-image: linear-gradient(to left, #AE76A6, #A3C3D9);
     padding: 20px;
     position: absolute;
     display: block;
@@ -9,12 +9,12 @@
     left: 50%;
     transform: translate(-50%);
     border-radius: 5px;
-    
+    z-index: 1;
 }
 
 .info p {
     text-align: center;
     font-family: helvetica;
-    font-size: 1.2rem;
-    color: #eeeeee;
+    font-size: 1.5rem;
+    color: #E9ECF5;
 }
