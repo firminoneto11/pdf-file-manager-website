@@ -1,0 +1,21 @@
+
+.header {
+    background-image: linear-gradient(to left, #AE76A6, #A3C3D9);
+    padding: 20px;
+    position: absolute;
+    display: block;
+    width: 80%;
+    top: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 5px;
+    z-index: 1;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.90);
+}
+
+.info p {
+    text-align: center;
+    font-family: helvetica;
+    font-size: 1.5rem;
+    color: #E9ECF5;
+}
